@@ -1,0 +1,30 @@
+[{
+    "name": "Uncommon",
+    "rar": 60,
+    "color": "#b2f252"
+}, {
+    "name": "rare",
+    "rar": 40,
+    "color": "#2196F3"
+}, {
+    "name": "Epic",
+    "rar": 25,
+    "color": "#E040FB"
+}, {
+    "name": "Legendary",
+    "rar": 10,
+    "color": "#FBC02D"
+}, {
+    "name": "Relic",
+    "rar": 2.5,
+    "color": "#ed4242"
+}, {
+    "name": "Contraband",
+    "rar": 0.5,
+    "color": "#292929"
+}, {
+    "name": "Unobtainable",
+    "rar": 0,
+    "color": "#fff53d",
+    "animate": 0
+}]
